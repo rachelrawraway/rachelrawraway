@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rachelrawraway
 - 👀 I’m interested in data engineering, coding and problem-solving
-- 🌱 I’m currently studying Electrical and Electronic Engineering, Data Engineering
+- 🌱 I’m studied Electrical and Electronic Engineering, Data Engineering
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me rachelrawraway@gmail.com
 
